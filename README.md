@@ -10,7 +10,7 @@ Most individuals use public transport
 Age and work experience are highly correlated with salary
 Engineers tend to have higher salaries
 
-#Model Building
+# Model Building
 The following models were trained and evaluated:
 
 Logistic Regression
@@ -27,11 +27,13 @@ Precision
 Recall
 F1 Score
 AUC-ROC
-Results
+
+# Results
 Random Forest performed best with a test AUC of 0.84. The top models were:
 
 Random Forest
 Gradient Boosting
 Decision Tree
-Conclusion
+
+# Conclusion
 This analysis shows that demographic and employment variables can predict with good accuracy whether someone will use public or private transport. Random Forest was the best performing model.
